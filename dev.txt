@@ -1,0 +1,1 @@
+This is the development branch. The main branch is only for production. Team members will make pull requests for their work to be merged, ideally this means merging their individual feature branches rather than try to push/have pushed changes to the dev branch directly.
